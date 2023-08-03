@@ -44,7 +44,7 @@ gunzip 3M-february-2018.txt.gz
 ## Running with test data
 There are two main modules in Venus: Detection and Integration. However, one would need to create mapping indices first prior to running these two modules. The detailed steps to do so is stated below:
 - Creating Index [[link]](src/module-index/module-index.md)
-- Detection Module [[link]](src/module-detection/module-detection.md)
+- Detection Module [[link]](src/module_detection/module_detection.md)
 - Integration Module [[link]](src/module-integration/module-integration.md)
 
 The expected outputs are given in the 'test_output' directory of the repository.
